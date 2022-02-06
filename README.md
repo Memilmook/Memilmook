@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=Gradle&logoColor=white)&nbsp;
@@ -24,6 +25,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=rstudio&logoColor=white)&nbsp;
 ![Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat&logo=AdobePremierepro&logoColor=white)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white)&nbsp;
+
 ![Visual Studio ](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white)&nbsp;
